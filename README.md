@@ -1,5 +1,5 @@
 # MIRLOG: Multi-omics integration and regulariza-tion via logistic regression for cancer subtype classi-fication and biomarker identification
-![MIRLOG](http://github.com/cy1028gyq/MIRLOG/blob/main/data/MIRLOG.png)
+![MIRLOG](https://github.com/YueCheng0/MIRLOG/blob/main/data/MIRLOG.png)
 
 # Requirements 
 ```bash
